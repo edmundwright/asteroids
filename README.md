@@ -1,3 +1,3 @@
 # Asteroids (incomplete)
 
-Asteroids game using HTML5 Canvas.
+Asteroids game using HTML5's Canvas.
